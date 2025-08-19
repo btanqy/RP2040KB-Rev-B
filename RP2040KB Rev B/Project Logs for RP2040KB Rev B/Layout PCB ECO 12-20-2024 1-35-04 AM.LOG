@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=GPIO3 Pin=SW6-2
+Removed Pin From Net: NetName=GPIO3 Pin=SW20-2
+Removed Pin From Net: NetName=GPIO3 Pin=SW35-2
+Removed Pin From Net: NetName=GPIO3 Pin=SW49-2
+Removed Pin From Net: NetName=GPIO3 Pin=SW60-2
+Removed Pin From Net: NetName=GPIO3 Pin=U2-14
+Change Footprint: Cannot match pads with new footprint in component :SW1 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW2 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW3 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW4 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW5 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW6 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW7 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW8 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW10 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW11 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW12 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW13 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW14 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW15 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW16 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW17 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW18 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW19 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW20 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW21 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW22 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW23 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW24 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW25 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW26 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW27 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW28 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW29 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW30 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW31 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW32 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW33 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW34 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW35 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW36 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW37 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW38 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW39 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW40 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW41 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW42 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW43 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW44 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW45 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW46 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW47 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW48 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW49 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW50 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW51 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW52 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW53 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW54 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW56 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW57 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW58 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW59 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW60 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW61 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW62 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW63 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW64 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW65 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW66 Footprint:CherryMX-Footprint-1
+Change Footprint: Cannot match pads with new footprint in component :SW Footprint:CherryMX-Footprint-1
+Added Pin To Net: NetName=GPIO11 Pin=SW6-2
+Added Pin To Net: NetName=GPIO11 Pin=SW20-2
+Added Pin To Net: NetName=GPIO11 Pin=SW35-2
+Added Pin To Net: NetName=GPIO11 Pin=SW49-2
+Added Pin To Net: NetName=GPIO11 Pin=SW60-2
+Added Pin To Net: NetName=GPIO11 Pin=U2-14
+Added Net: Name=GPIO11

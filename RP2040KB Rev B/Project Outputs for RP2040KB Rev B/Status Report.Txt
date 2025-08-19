@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [RP2040KB Rev B.PrjPcb]
+   Generated File[Layout.GTO]
+   Generated File[Layout.GTP]
+   Generated File[Layout.GTS]
+   Generated File[Layout.GTL]
+   Generated File[Layout.GBL]
+   Generated File[Layout.GBS]
+   Generated File[Layout.GBP]
+   Generated File[Layout.GBO]
+   Generated File[Layout.GM]
+   Generated File[Layout.EXTREP]
+   Generated File[Layout.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 12:51:06 AM On 8/19/2025
